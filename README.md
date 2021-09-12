@@ -19,6 +19,7 @@ Run the app using `npx`
 
 ````bash
 npx @domnc/speedtest
+```
 
 ---
 
