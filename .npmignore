@@ -1,0 +1,5 @@
+src/
+.github/
+.nvmrc
+.versionrc.json
+tsconfig.json

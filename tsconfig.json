@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "baseUrl": ".",
+    "esModuleInterop": true,
+    "lib": ["ESNext", "DOM"],
+    "module": "commonjs",
+    "noImplicitAny": true,
+    "outDir": "./lib",
+    "paths": {
+      "*": ["./node_modules/@types"]
+    },
+    "resolveJsonModule": true,
+    "rootDir": "./src",
+    "strict": true,
+    "target": "ESNext",
+    "useUnknownInCatchVariables": false
+  }
+}

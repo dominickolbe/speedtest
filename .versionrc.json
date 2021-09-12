@@ -1,0 +1,36 @@
+{
+  "types": [
+    {
+      "section": "Features",
+      "type": "feat"
+    },
+    {
+      "section": "Bug Fixes",
+      "type": "fix"
+    },
+    {
+      "section": "Chores",
+      "type": "chore"
+    },
+    {
+      "section": "Documentation",
+      "type": "docs"
+    },
+    {
+      "section": "Styling",
+      "type": "style"
+    },
+    {
+      "section": "Refactoring",
+      "type": "refactor"
+    },
+    {
+      "section": "Performance",
+      "type": "perf"
+    },
+    {
+      "section": "Test",
+      "type": "test"
+    }
+  ]
+}
