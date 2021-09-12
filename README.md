@@ -17,7 +17,7 @@
 
 Run the app using `npx`
 
-````bash
+```bash
 npx @domnc/speedtest
 ```
 
@@ -42,7 +42,7 @@ I build this project with the following setup:
 
 ```bash
 yarn install
-````
+```
 
 3. start app
 
